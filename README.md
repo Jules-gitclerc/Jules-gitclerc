@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><em>Software Enginner at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a>
+<p><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a>
 
 <p align="center">
   <img src="https://badges.pufler.dev/repos/jules-gitclerc"/>
