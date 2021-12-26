@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://badges.pufler.dev/repos/jules-gitclerc"/>
+  <img src="https://badges.pufler.dev/commits/monthly/jules-gitclerc" />
+</p>
+
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
