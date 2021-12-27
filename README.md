@@ -1,6 +1,6 @@
 <img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner.png" />
 
-<p><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a>
+<p align="center"><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a></p>
 
 <p align="center">
   <img src="https://badges.pufler.dev/repos/jules-gitclerc"/>
