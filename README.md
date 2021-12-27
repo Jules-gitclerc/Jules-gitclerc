@@ -35,6 +35,8 @@
   
 <br>
 
+  <h2 align="center">My Github Stats</h2>
+  
 <p align= "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jules-gitclerc&show_icons=true&theme=radical&line_height=27">
   <br>
