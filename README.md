@@ -35,11 +35,10 @@
   
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=jules-gitclerc&show_icons=true&theme=radical&line_height=27">
+<p align= "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jules-gitclerc&show_icons=true&theme=radical&line_height=27">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jules-gitclerc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jules-gitclerc&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jules-gitclerc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
