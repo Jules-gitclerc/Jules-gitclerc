@@ -1,4 +1,4 @@
-<img src="https://github.com/jules-gitclerc/jules-gitclerc/banner.png" />
+<img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner.png" />
 
 <p><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a>
 
