@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://badges.pufler.dev/repos/jules-gitclerc"/>
-  <img src="https://badges.pufler.dev/commits/monthly/jules-gitclerc" />
+  <img src="https://badges.pufler.dev/commits/monthly/jules-gitclerc"/>
 </p>
   
 <h2 align="center">Reach me on</h2>
