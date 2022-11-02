@@ -7,6 +7,7 @@
   <img src="https://badges.pufler.dev/commits/monthly/jules-gitclerc"/>
 </p>
 
+
 [![Profile View Counter](https://komarev.com/ghpvc/?username=jules-gitclerc)](https://github.com/jules-gitclerc)
   
 <h2 align="center">Reach me on</h2>
