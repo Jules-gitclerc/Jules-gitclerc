@@ -1,14 +1,10 @@
 <img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner.png" />
 
 <p align="center"><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a></p>
-
+  
 <p align="center">
-  <img src="https://badges.pufler.dev/repos/jules-gitclerc"/>
-  <img src="https://badges.pufler.dev/commits/monthly/jules-gitclerc"/>
+  <img src="https://komarev.com/ghpvc/?username=jules-gitclerc&style=flat-square&color=blue" alt=""/>
 </p>
-
-
-[![Profile View Counter](https://komarev.com/ghpvc/?username=jules-gitclerc)](https://github.com/jules-gitclerc)
   
 <h2 align="center">Reach me on</h2>
 
