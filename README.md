@@ -1,7 +1,8 @@
 <img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner.png" />
 
 <p align="center"><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a></p>
-  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jules-gitclerc&style=flat-square&color=blue" alt=""/>
 </p>
