@@ -4,6 +4,8 @@
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jules-gitclerc&style=flat-square&color=blue" alt=""/>
+  <img src="https://wakatime.com/badge/user/waka_ee6054a3-e7d4-4041-80ec-3aaf167c68ec.svg"/>
+  <img src="https://wakatime.com/waka_ee6054a3-e7d4-4041-80ec-3aaf167c68ec"/>
 </p>
   
 <h2 align="center">Reach me on</h2>
