@@ -1,6 +1,7 @@
 <img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner.png" />
 
 <p align="center"><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a></p>
+  
 <!--START_SECTION:waka-->
 
 ```text
@@ -17,6 +18,7 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jules-gitclerc&style=flat-square&color=blue" alt=""/>
 </p>
@@ -56,6 +58,12 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jules-gitclerc&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
+
+<p><a href="https://ko-fi.com/beziergregoire"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="beziergregoire" /></a></p><br><br>
+
+
+| <a href="https://github.com/Jules-gitclerc/Jules-gitclerc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jules-gitclerc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Herosbrine/Herosbrine"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-gitclerc&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
   <h2 align="center">Tools</h2>
 
