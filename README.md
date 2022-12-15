@@ -53,10 +53,8 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
   <h2 align="center">My Github Stats</h2>
 
-<p align="center">
 | <a href="https://github.com/Jules-gitclerc/Jules-gitclerc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jules-gitclerc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jules-gitclerc/Jules-gitclerc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-gitclerc&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-</p>
   
   <h2 align="center">Tools</h2>
 
