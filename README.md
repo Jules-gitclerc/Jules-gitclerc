@@ -1,8 +1,25 @@
 <h1 align="center"><b>Hi , I'm Jules</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
 <!--  -->
-<img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner.png" />
+<img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner_edit.png" />
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jules-gitclerc&label=Profile%20views&color=0047AB&style=plastic?" alt="jules-gitclerc" height=25px, width=160px/> 
+</p>
 
-<p align="center"><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a></p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a fifth-year student at [Epitech](https://www.epitech.eu).
+- :technologist: A passionate Self-taught `Front-end`developer.
+- :computer: I’m currently working on **AWS, React, Nodejs, MongoDB**.
+- :student: Currently learning Web Development by Self.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://jules-gitclerc.github.io/Jules_Clerc_resume.pdf).
+- :boom: You can visit [MY WEBSITE](https://jules-gitclerc.github.io/MyPortfolio/).
+<br>
   
 <!--START_SECTION:waka-->
 
@@ -19,10 +36,6 @@ textmate     6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jules-gitclerc&style=flat-square&color=blue" alt=""/>
-</p>
   
 <h2 align="center">Reach me on</h2>
 
@@ -52,21 +65,28 @@ textmate     6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
 <br>
 
-  <h2 align="center">My Github Stats</h2>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-| <a href="https://github.com/Jules-gitclerc/Jules-gitclerc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jules-gitclerc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jules-gitclerc/Jules-gitclerc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-gitclerc&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
-  <h2 align="center">Tools</h2>
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+----	
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jules-gitclerc&theme=tokyonight_duo" alt="jules-gitclerc" />
+</p>
+
+</details>
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="jules-gitclerc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jules-gitclerc&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jules-gitclerc&layout=compact&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="jules-gitclerc" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+</details>
