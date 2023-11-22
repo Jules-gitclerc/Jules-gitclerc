@@ -1,3 +1,5 @@
+<h1 align="center"><b>Hi , I'm Jules</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner.png" />
 
 <p align="center"><em>3rd Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille</a></p>
