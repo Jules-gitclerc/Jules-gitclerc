@@ -3,15 +3,14 @@
 <!--  -->
 <img src="https://github.com/Jules-gitclerc/Jules-gitclerc/blob/main/banner_edit.png" />
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jules-gitclerc&label=Profile%20views&color=0047AB&style=plastic?" alt="jules-gitclerc" height=25px, width=160px/> 
-</p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=jules-gitclerc&label=Profile%20views&color=0047AB&style=plastic?" alt="jules-gitclerc" height=25px, width=160px/> 
+<br>
 
 - :school: I am a fifth-year student at [Epitech](https://www.epitech.eu).
 - :technologist: A passionate Self-taught `Front-end`developer.
@@ -37,15 +36,18 @@ textmate     6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
   
-<h2 align="center">Reach me on</h2>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jules-clerc/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-  </a>
-  <a href="https://github.com/Jules-gitclerc" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
+	<a href="https://www.linkedin.com/in/jules-clerc/" target="blank"><img align="center"
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="linkedin" height="30"/></a>
+	<a href="https://codepen.io/Surfy971" target="blank"><img align="center"src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" height="30" alt="codepen"/></a>
+	<a href="https://jules-gitclerc.github.io/MyPortfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30" alt="portfolio"/></a>
 </p>
 
 <h2 align="center">Technology Stack</h2>
