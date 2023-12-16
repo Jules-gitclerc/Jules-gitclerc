@@ -25,12 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
-Total Time: 32 mins
+Total Time: 0 secs
 
-Dart   29 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.50 %
-Text   3 mins          ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
