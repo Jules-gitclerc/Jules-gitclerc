@@ -14,9 +14,9 @@
 
 - :school: I am a fifth-year student at [Epitech](https://www.epitech.eu).
 - :technologist: A passionate Self-taught `Front-end`developer.
-- :computer: I’m currently working on **AWS, React, Nodejs, MongoDB**.
-- :student: Currently learning Web Development by Self.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://jules-gitclerc.github.io/Jules_Clerc_resume.pdf).
+- :computer: I’m currently working on **React, Flutter, Firebase, Java**.
+- :student: Currently programming in Mobile Development at ADEO.
+- :thinking: I’m working for `ADEO` in Lille, France, this is [MY RESUME](https://jules-gitclerc.github.io/Jules_Clerc_resume.pdf).
 - :boom: You can visit [MY WEBSITE](https://jules-gitclerc.github.io/MyPortfolio/).
 <br>
 
