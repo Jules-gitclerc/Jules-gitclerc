@@ -106,16 +106,6 @@ Text       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jules-gitclerc&theme=tokyonight_duo" alt="jules-gitclerc" />
-</p>
-
-</details>
-
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
