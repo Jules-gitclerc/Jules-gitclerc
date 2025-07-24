@@ -86,5 +86,7 @@ Gradle                 10 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </p>
 </details>
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
