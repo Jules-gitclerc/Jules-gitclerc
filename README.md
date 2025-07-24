@@ -80,13 +80,9 @@ Gradle                 10 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <details>
 <summary><h3>View my GitHub profile stats</h3></summary>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jules-gitclerc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jules-gitclerc&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="230px"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jules-gitclerc&layout=compact&langs_count=10&show_icons=true&theme=tokyonight" alt="jules-gitclerc" height="230px"/>
-</p>
-</details>
-
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"></p>
+</details>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
